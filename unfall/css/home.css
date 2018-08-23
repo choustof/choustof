@@ -1,0 +1,13 @@
+.bande_bleue{
+
+	height: 100%;
+	background-color: #2980b9;
+}
+
+
+h1{
+	text-align: center;
+}
+body,html{
+	height: 100%;
+}
